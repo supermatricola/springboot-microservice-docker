@@ -1,6 +1,6 @@
 # springboot-microservice-docker
 
-SpringBoot peroject contenente microservizio demo dockerizzato da deployare su cluster Kubernates(EKS) tramite configurazione presente sotto application-k8s.config.yaml
+SpringBoot proj. contenente microservizio demo dockerizzato da deployare su cluster Kubernates(EKS) tramite configurazione presente sotto application-k8s.config.yaml
 
 DockerHub repo contenente image del microservizio dockerizzato: https://hub.docker.com/repository/docker/supermatricola/springboot-demo-micro-service
 
