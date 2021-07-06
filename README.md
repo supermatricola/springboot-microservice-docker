@@ -16,4 +16,5 @@ Comandi dati sul progetto:
 # Come testare in locale il microservizio 
 
 1.docker run -p 8080:8080 supermatricola/springboot-demo-micro-service
+
 2.puntare a localhost:8080/docker-test
