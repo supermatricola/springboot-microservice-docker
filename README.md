@@ -11,3 +11,9 @@ Comandi dati sul progetto:
 3. visualizza immagine creata:  docker image ls
 4. crea tag su dockerHub: docker tag service-demo supermatricola/springboot-demo-micro-service
 5. push su dockerHub: docker push supermatricola/springboot-demo-micro-service
+
+
+# Come testare in locale il microservizio 
+
+1.docker run -p 8080:8080 supermatricola/springboot-demo-micro-service
+2.puntare a localhost:8080/docker-test
