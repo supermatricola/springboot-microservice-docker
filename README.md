@@ -17,4 +17,4 @@ Comandi dati sul progetto:
 
 1.docker run -p 8080:8080 supermatricola/springboot-demo-micro-service
 
-2.puntare a localhost:8080/docker-test
+2.puntare a http://localhost:8080/test-docker
